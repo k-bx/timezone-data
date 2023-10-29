@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "justinmimbs/timezone-data",
+    "name": "k-bx/timezone-data",
     "summary": "Time zone data from the IANA Time Zone Database for using with elm/time",
     "license": "BSD-3-Clause",
     "version": "10.0.3",
