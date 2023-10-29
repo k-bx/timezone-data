@@ -361,6 +361,8 @@ zones =
     , ( "Europe/Kaliningrad", europe__kaliningrad )
     , ( "Europe/Kirov", europe__kirov )
     , ( "Europe/Kyiv", europe__kyiv )
+    , ( "Europe/Kiev", europe__kyiv )
+    , ( "Europe/Zaporozhye", europe__kyiv )
     , ( "Europe/Lisbon", europe__lisbon )
     , ( "Europe/London", europe__london )
     , ( "Europe/Madrid", europe__madrid )
